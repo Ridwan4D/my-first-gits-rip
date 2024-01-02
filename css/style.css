@@ -1,0 +1,28 @@
+.header{
+    height: 300px;
+    /* background-color: bisque; */
+    background-image: url("/download.jpg");
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-size: cover;
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family:'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.blog{
+    margin: 20px 50px;
+    border: 5px solid blue;
+    box-shadow: 10px 10px 15px rgb(9, 130, 229);
+}
+
+.incident{
+    border: 2px solid blueviolet;
+}
